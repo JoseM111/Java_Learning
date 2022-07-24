@@ -1,4 +1,7 @@
 ### Java template
+# Intellij
+/.idea/*
+.gitignore
 # Compiled class file
 *.class
 
