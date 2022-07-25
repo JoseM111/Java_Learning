@@ -2,8 +2,7 @@
 # Intellij
 .idea/*
 FunctionalInterface/.idea/
-
-.gitignore
+*.idea/
 # Compiled class file
 *.class
 
