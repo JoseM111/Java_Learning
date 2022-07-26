@@ -11,4 +11,5 @@ public interface IFunctional {
     BiFunction<Integer, Integer, Integer> multiplyFunction = (num1, num2) -> (
         num1 * num2
     );
+    
 }

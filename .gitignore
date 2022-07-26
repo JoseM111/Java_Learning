@@ -1,7 +1,8 @@
 ### Java template
 # Intellij
-/.idea/*
-.gitignore
+.idea/*
+FunctionalInterface/.idea/
+*.idea/
 # Compiled class file
 *.class
 
