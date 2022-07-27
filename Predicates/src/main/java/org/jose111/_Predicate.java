@@ -23,9 +23,6 @@ public class _Predicate {
     
         IPredicate.isPhoneNumberValidPredicate.test("07000000000");
         IPredicate.isPhoneNumberValidPredicate.test("09009877300");
-        
-        
-    
         System.out.println(format("*. Does the phone number contain 3: {0}", containsTheNumber3));
         System.out.println(format("*. Does the phone number contain 3: {0}", containsTheNumber3V2));
         System.out.println("================================================\n");
